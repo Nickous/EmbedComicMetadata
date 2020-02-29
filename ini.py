@@ -81,7 +81,7 @@ def get_configuration():
                 ["count_column", _L['Number of issues:'], None, NUMBER_TYPE],
                 ["pages_column", _L['Pages:'], None, NUMBER_TYPE],
                 ["image_size_column", _L['Image size:'], None, FLOAT_TYPE],
-                ["comicvine_column", _L['Comicvine link:'], None, COMMENT_TYPE]
+                ["www_column", _L['Web link:'], None, COMMENT_TYPE]
             ]
         },
         {
